@@ -65,7 +65,7 @@ public class Assign {
 			
 			in1 = in2;
 			in2 = in2.valueOf(222);
-			in1.equals(obj)
+			
 			System.out.println("in1= " + in1 + ", in2=" + in2);
 			
 			
